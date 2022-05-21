@@ -1,4 +1,4 @@
-[![MasterHead](https://liwaiwai.com/wp-content/uploads/2021/03/machine-learning-libraries.gif](https://Mukuldev21.io)
+
 <h1 align="center">Hi 👋, I'm Mukul Dev Mahato</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-size_restricted.gif">

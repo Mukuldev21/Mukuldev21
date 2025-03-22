@@ -1,28 +1,67 @@
+# 👋 Hi there, I'm Mukul Dev Mahato
 
-<h1 align="center">Hi 👋, I'm Mukul Dev Mahato</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-size_restricted.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mukul-dev-a02108198)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mukul.com12@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukuldev21&label=Profile%20views&color=0e75b6&style=flat" alt="mukuldev21" /> </p>
+## 💻 SDET | Test Automation | CI/CD | API Testing | Cloud | DevOps
 
-- 🔭 I’m currently working on **Face Detection and Identification**
+I'm a passionate Software Development Engineer in Test (SDET) with 3 years of experience building scalable test automation frameworks, integrating tests into CI/CD pipelines, and enhancing software reliability through DevOps practices.
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vision**
+## 🛠️ Skills & Technologies
 
-- 📫 How to reach me **mukul.com12@gmail .com**
+### Test Automation
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-0769AD?style=flat&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mukul-dev-a02108198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukul-dev-a02108198" height="30" width="40" /></a>
-<a href="https://kaggle.com/mukuldevmahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mukuldevmahato" height="30" width="40" /></a>
-<a href="https://instagram.com/mukuldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukuldev" height="30" width="40" /></a>
-</p>
+### API Testing
+![REST Assured](https://img.shields.io/badge/-REST%20Assured-4BA82E?style=flat&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Mobile Testing
+![Appium](https://img.shields.io/badge/-Appium-662D91?style=flat&logo=appium&logoColor=white)
+![Perfecto](https://img.shields.io/badge/-Perfecto-003366?style=flat&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukuldev21&show_icons=true&locale=en&layout=compact" alt="mukuldev21" /></p>
+### CI/CD & DevOps
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukuldev21&show_icons=true&locale=en" alt="mukuldev21" /></p>
+### Cloud & Cross-Browser Testing
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![LambdaTest](https://img.shields.io/badge/-LambdaTest-FCB01B?style=flat&logoColor=white)
+![SauceLabs](https://img.shields.io/badge/-SauceLabs-E2231A?style=flat&logo=saucelabs&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukuldev21&" alt="mukuldev21" /></p>
+### Programming Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Agile & Project Management
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logoColor=white)
+![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+
+## 🏆 Professional Achievements
+
+- **GEM Award Winner** - Recognized for outstanding contributions to E2E Certificates (WTW), Capgemini (2024)
+- **QA Automation Engineer Level 2** certification from Ocean Certifications
+- **Agile Software Development** certified professional
+- **Global Banking Level 2** certification
+
+
+## 📫 Let's Connect!
+
+I'm passionate about scaling test automation frameworks and optimizing testing strategies for high-quality software delivery. Always open to collaborating on innovative projects and sharing knowledge!
+
+- 📧 Email: [mukul.com12@gmail.com](mailto:mukul.com12@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/mukul-dev-a02108198](https://linkedin.com/in/mukul-dev-a02108198)
+- 📍 Location: Pune, Maharashtra, India
+
+---
+
+⚡ *"Quality is never an accident; it is always the result of intelligent effort."* — John Ruskin
